@@ -1,0 +1,16 @@
+Index: hello.c
+===================================================================
+--- hello.c	(revision 8)
++++ hello.c	(working copy)
+@@ -239,9 +239,9 @@
+   else
+     {
+       if (t)
+-        printf ("hello, welt\n");
++        printf ("hello, world\n");
+       else
+-        puts ("Hello, welt!");
++        puts ("Hello, world!");
+     }
+ 
+   exit (0);
