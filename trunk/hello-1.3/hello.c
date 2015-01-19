@@ -1,4 +1,4 @@
-/* hello -- print a greeting message and exit.
+﻿/* hello -- print a greeting message and exit.
    Copyright (C) 1992 Free Software Foundation, Inc.
 
    This program is free software; you can redistribute it and/or modify
@@ -239,14 +239,15 @@ main (argc, argv)
   else
     {
       if (t)
-        printf ("hello, world\n");
+        printf ("hello, welt\n");
       else
-        puts ("Hello, world!");
+        puts ("Hello, welt!");
     }
 
   exit (0);
 }
-
+
+
 /* Used by alloca.c.  */
 
 char *
