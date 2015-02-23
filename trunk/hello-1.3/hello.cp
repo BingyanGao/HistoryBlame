@@ -7,7 +7,7 @@
 \entry {invoking}{15}{invoking}
 \entry {version}{15}{version}
 \entry {options}{15}{options}
-\entry {usage}{15}{usage}
+\entry {usage}{15}{usage}{eric`}
 \entry {help}{15}{help}
 \entry {getting help}{15}{getting help}
 \entry {traditional}{15}{traditional}
