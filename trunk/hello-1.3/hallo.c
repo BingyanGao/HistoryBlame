@@ -247,6 +247,7 @@ main (argc, argv)
   exit (0);
 }
 
+////250 2rasjsafsalfjll
 
 /* Used by alloca.c.  */
 
