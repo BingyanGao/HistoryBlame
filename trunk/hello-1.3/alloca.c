@@ -1,6 +1,4 @@
 //revision 16
-//revision 17
-//revision 18
 //revision 19(modified revision 20)
 /* alloca.c -- allocate automatically reclaimed memory
    (Mostly) portable public-domain implementation -- D A Gwyn
