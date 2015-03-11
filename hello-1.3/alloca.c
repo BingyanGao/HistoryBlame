@@ -105,7 +105,7 @@ find_stack_direction ()
     }
 }
 
-//revision 21
+//revision 24(modified)
 #endif /* STACK_DIRECTION == 0 */
 
 /* An "alloca header" is used to:
@@ -210,6 +210,7 @@ struct stack_control_header
     long shsize:32;		/* Current size of stack (all segments).  */
   };
 
+//revision 25(added)
 /* The stack segment linkage control information occurs at
    the high-address end of a stack segment.  (The stack
    grows from low addresses to high addresses.)  The initial
