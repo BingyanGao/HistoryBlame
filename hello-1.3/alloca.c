@@ -380,6 +380,9 @@ i00afunc (long *address)
   return (result);
 }
 
+//version 25 added
+//version 25 added
+
 #else /* not CRAY2 */
 /* Stack address function for a CRAY-1, CRAY X-MP, or CRAY Y-MP.
    Determine the number of the cell within the stack,
@@ -423,6 +426,8 @@ i00afunc (long address)
      a stack overflow.  Discard stack segments which do not
      contain the target address.  */
 
+//version 25 added
+//version 25 added
   while (!(this_segment <= address && address <= stkl))
     {
 #ifdef DEBUG_I00AFUNC
@@ -455,7 +460,7 @@ i00afunc (long address)
       pseg = ssptr->sspseg;
       result += size;
     }
-  return (result);
+  return (result);//modified version 25
 }
 
 #endif /* not CRAY2 */
