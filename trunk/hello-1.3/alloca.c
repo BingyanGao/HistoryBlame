@@ -105,6 +105,7 @@ find_stack_direction ()
     }
 }
 
+//revision 21
 #endif /* STACK_DIRECTION == 0 */
 
 /* An "alloca header" is used to:
