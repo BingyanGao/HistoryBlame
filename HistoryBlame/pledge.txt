@@ -4,9 +4,10 @@ For better or for worse
 //insert in Revision 27
 For richer or for poorer
 //insert in Revision 27
-In sickness and in health
-To love
+In sickness and in health //modify in Revision 28
+To love //modify in Revision 28
 To cherish
 As long as we both shall live
-
+//modify in Revision 28
+//insert in Revision 28
 I do
