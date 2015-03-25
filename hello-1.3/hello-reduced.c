@@ -14,9 +14,11 @@ main (argc, argv)
   progname = argv[0];
 
 }
-
-//change the world !!! Exam timetable!!
-
+//Hello!
+//Hallo!
+//change the world !!! Exam timetable!!  Disaster!!
+//let it go
+//river flows in you
 
 char *
 xmalloc (size)
