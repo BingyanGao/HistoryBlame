@@ -5,7 +5,7 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <pwd.h>
-#include <errno.h>
+#include <errno.h>//modified in Revision 35
 #include "getopt.h"
 static char *progname;
 
