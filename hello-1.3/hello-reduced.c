@@ -20,8 +20,8 @@ main (argc, argv)
   progname = argv[0];
 
 }
-//Hello world
-//change the world
+
+//change the world !!!
 /* Used by alloca.c.  AUTHOR: HELEN*/
 
 char *
