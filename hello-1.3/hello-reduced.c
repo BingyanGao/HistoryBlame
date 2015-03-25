@@ -17,7 +17,11 @@ main (argc, argv)
 //Hello!
 //Hallo!
 //change the world !!! Exam timetable!!  Disaster!!
-//let it go
+//UKFC
+//benjour!!
+//let it go!!!
+//AWS
+//Cloud
 //river flows in you
 
 char *
