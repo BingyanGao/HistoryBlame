@@ -21,8 +21,8 @@ main (argc, argv)
 
 }
 
-//change the world !!!
-/* Used by alloca.c.  AUTHOR: HELEN*/
+//change the world !!! Exam timetable!!
+
 
 char *
 xmalloc (size)
