@@ -1,8 +1,4 @@
-﻿/* hello -- print a greeting message and exit. !!!*/
-#include <stdio.h>
-#include <sys/types.h>
-#include <sys/stat.h>
-#include <pwd.h>
+﻿#include <sys/types.h> //comment
 #include <errno.h>//modified in Revision 35
 #include "getopt.h"
 static char *progname;
