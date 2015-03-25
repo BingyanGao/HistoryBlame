@@ -1,6 +1,5 @@
 ﻿/* hello -- print a greeting message and exit. */
-//modified in Revision 34
-/* AIX requires this to be the first thing in the file.  */
+/* AIX requires this to be the first thing in the file!!!  */
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/stat.h>
